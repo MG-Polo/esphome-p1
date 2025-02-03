@@ -8,7 +8,7 @@ esphome:
   comment: "${device_description}" 
   name_add_mac_suffix: false
   platformio_options:
-    upload_speed: 1500000 #921600 
+    upload_speed: 921600 
   
   project:
     name: smartstuff.waterlezer
