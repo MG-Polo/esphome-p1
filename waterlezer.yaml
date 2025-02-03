@@ -90,7 +90,7 @@ sensor:
       rising_edge: DISABLE
       falling_edge: INCREMENT
     state_class: measurement
-    update_interval: 1s
+    update_interval: 5s
     internal_filter: 100us
     accuracy_decimals: 0
     unit_of_measurement: 'L/min'
